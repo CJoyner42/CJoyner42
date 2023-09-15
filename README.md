@@ -1,4 +1,4 @@
 - 👋 I'm Curtis Joyner
 - ⚡ I've been studying programming since mid 2022
-- 🌱 Competent in Python, HTML and CSS and to a lesser degree, C++ and C#
+- 🌱 Learning C++, Unreal Engine, Blender, aseprite, GLSL, Linux, server-side development
 - 🤓 Pursuing a Bachelor's degree in Computer Science at Colorado State University
