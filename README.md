@@ -1,4 +1,15 @@
-- 👋 I'm Curtis Joyner
+##👋 I'm Curtis Joyner
+
 - 🌱 I've been studying programming since mid 2022
-- ⚡ Learning C, C++, GLSL, Unreal Engine, Blender, Godot, Aseprite, server-side development
 - 🤓 Pursuing a Bachelor's degree in Computer Science at Colorado State University
+- 
+###⚡ Learning
+
+- C C++, GLSL, Unreal Engine, Blender, Godot, Aseprite, server-side development
+- C++
+- GLSL
+- Unreal Engine
+- Blender
+- Godot
+- Aseprite
+- server-side development
